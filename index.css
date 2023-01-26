@@ -1,0 +1,28 @@
+body{
+    background-color: #f01869;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#myInfo{
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+
+}
+
+h1{
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+}
+#heading{
+    text-align: center;
+    
+}
+
+.fa-solid{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
